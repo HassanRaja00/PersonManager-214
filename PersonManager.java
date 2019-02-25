@@ -1,5 +1,4 @@
 package homework1;
-//Hassan Raja ID: 112249751
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
