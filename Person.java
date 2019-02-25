@@ -1,5 +1,4 @@
 package homework1;
-// Hassan Raja ID: 112249751
 
 public class Person {
 	
